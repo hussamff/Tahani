@@ -7,3 +7,4 @@ OSI Approved License: https://opensource.org/licenses/Apache-2.0
 The 2.0 version of the Apache License, approved by the ASF in 2004, helps us achieve our goal of providing reliable and long-lived software products through collaborative, open-source software development.
 
 All packages produced by the ASF are implicitly licensed under the Apache License, Version 2.0, unless otherwise explicitly stated.
+Copyright 2025 Tahani
